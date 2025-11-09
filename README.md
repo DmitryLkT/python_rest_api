@@ -13,6 +13,7 @@ Python REST API для управления пользователями.
 
 ## Пример работы
 - Получение списка всех пользователей
+  
 <img src="https://github.com/DmitryLkT/python_rest_api/blob/main/resources/static/images/get_all.jpg" 
      alt="getListUsers" width="600"/>
 
